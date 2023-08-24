@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm a mobile developer with expertise in React Native ⚛️ and a strong background in native Android development. 🤖
+
+My goal is to create high-quality, organized, user-friendly mobile applications. I'm experienced in collaborating with cross-functional teams to deliver projects on time and I'm constantly exploring new technologies and frameworks to stay ahead in the dynamic world of mobile development. 
+
+Let's connect and discuss how we can join forces to create innovative mobile solutions together! 🤝
 
 <!--
 **LucasBarrosAL/LucasBarrosAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
